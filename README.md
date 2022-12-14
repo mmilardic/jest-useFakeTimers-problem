@@ -1,3 +1,2 @@
-forked from https://github.com/jsynowiec/node-typescript-boilerplate/
+Migrating from jest v27 to v28 the following error started occuring when using `jest.useFakeTimers({})`: 'Can't install fake timers twice on the same global object'.
 
-somehow the original repo does not work in CodeSandBox for me, did some change, totally works now
